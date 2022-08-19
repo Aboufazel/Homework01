@@ -1,0 +1,100 @@
+body{
+    background: #F2E9E2 !important;
+    font-family : Candara;
+}
+
+/*************Style*************/
+.green-color{
+    color:#3C8268;
+}
+
+.gray-color{
+    color: #a2a1a1;
+}
+
+h1{
+    font-weight: lighter;
+}
+.height100{
+    min-height: 100vh;
+}
+.box{
+    position: fixed;
+    left: 320px;
+    top: 145px;
+    width: 700px;
+    height: 530px;
+    background: white;
+    border-radius: 10px;
+}
+.productPic{
+    width: 370px;
+    height: 530px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.rightSide{
+    position: absolute;
+    top: 10px;
+    left: 400px;
+}
+.priceBox{
+    position: absolute;
+    top: 330px;
+}
+.btnBox{
+    position: absolute;
+    top: 450px;
+}
+.offPrice{
+    position: absolute;
+    top: 60px;
+    left: 150px;
+}
+/*font-Style*/
+.bolderWeight{
+    font-weight: bolder;
+}
+
+.boldWeight{
+    font-weight: bold;
+}
+.pSpacing{
+    letter-spacing: 5px;
+}
+.lineHeight{
+    line-height: 22pt;
+}
+.font45{
+    font-size: 45px;
+}
+.font40{
+    font-size: 40px;
+}
+.font18{
+    font-size: 18px;
+}
+/*font-Style*/
+.btnIcon{
+    padding-right: 5px;
+}
+.buy-btn{
+    background: #3C8268;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    width: 260px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.buy-btn:hover{
+    background: white;
+    color: #3C8268;
+    border-radius: 10px;
+    border: 1px solid #3C8268;
+    cursor: pointer;
+    width: 260px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+/*************Style*************/
